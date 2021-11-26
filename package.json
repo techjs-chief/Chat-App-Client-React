@@ -37,6 +37,14 @@
       "last 1 safari version"
     ]
   },
+  "keywords": [
+    "react",
+    "chat",
+    "app",
+    "client",
+    "multiple",
+    "users"
+  ],
   "author": "JS-IT",
   "license": "ISC"
 }
