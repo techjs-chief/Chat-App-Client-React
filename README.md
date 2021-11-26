@@ -1,3 +1,13 @@
+## Chat Application Client using React, socket.io
+### It allows multiple users to chat in a same room in real time.
+
+<br></br>
+
+## Server App
+
+[Chat App Server](https://github.com/JS-IT/Chat-App-Server-Node)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
